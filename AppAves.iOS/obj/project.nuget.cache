@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMdCA3BiGmdAKcXuVFx0IlX94bMRaNA2xVZDaJdRyNMjHVZh87rtrX/cVaP+8cXxxD6TvcNBdd3FemKz5nxGxg==",
+  "success": true,
+  "projectFilePath": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves.iOS\\AppAves.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

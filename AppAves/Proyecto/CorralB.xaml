@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAves.Proyecto.CorralB"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout>
+        <Frame VerticalOptions="FillAndExpand"
+               BackgroundColor="#F7B91E">
+            <StackLayout Spacing="10">
+                <!-- Bienvenida-->
+                <Label Text="¡Buen Trabajo!"
+                       FontSize="25"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"
+                       TextColor="#000" />
+                <!--Imagen-->
+                <Frame BackgroundColor="#F79E1E">
+                    <Image Source="https://i.ibb.co/jb5KNfp/GallinaB.webp"
+                           WidthRequest="700" />
+                </Frame>
+                <!--Texto de bienvenida-->
+                <Label Text="Toma en cuenta los siguientes alimentos y pronto la gallina pronto estará en el Corral A:"
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Center" />
+                <Label Text="-  Proporciona una dieta que incluya una variedad de alimentos nutritivos como granos, vegetales frescos, frutas, proteínas y hierbas. Asegúrate de que esté recibiendo una buena cantidad de vitaminas, minerales y proteínas para fortalecer su sistema inmunológico y promover la recuperación."
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="- Considera la posibilidad de añadir suplementos vitamínicos y minerales a la dieta de la gallina para asegurarte de que esté recibiendo todos los nutrientes que necesita para mejorar su salud. Puedes consultar con un veterinario avícola para obtener recomendaciones específicas sobre los suplementos adecuados para tu gallina."
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="- Asegúrate de que la gallina tenga acceso a agua fresca y limpia en todo momento. La hidratación adecuada es esencial para mantener la salud general y ayudar en la recuperación de cualquier enfermedad o afección."
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="✅Contacto con especialista: 947 654 721 - Andrés Alfonso"
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="End" />
+                <Button Text="Volver"
+                        BackgroundColor="#000"
+                        TextColor="White"
+                        CornerRadius="5"
+                        FontSize="Large"
+                        FontAttributes="Bold"
+                        x:Name="BtnVolver"
+                        Clicked="BtnVolver_Clicked" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

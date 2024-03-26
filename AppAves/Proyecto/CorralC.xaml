@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAves.Proyecto.CorralC"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout>
+        <Frame VerticalOptions="FillAndExpand"
+               BackgroundColor="#F56007">
+            <StackLayout Spacing="10">
+                <!-- Bienvenida-->
+                <Label Text="⭕ CUIDADO ⭕"
+                       FontSize="25"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"
+                       TextColor="#000" />
+                <!--Imagen-->
+                <Frame BackgroundColor="#F79E1E">
+                    <Image Source="https://i.ibb.co/vBw0sKy/corralC.jpg"
+                           WidthRequest="1000" />
+                </Frame>
+                <!--Texto de bienvenida-->
+                <Label Text="Urge una Dieta Especial:"
+                       FontAttributes="Bold"
+                       FontSize="13"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Center" />
+                <Label Text="➖ Alimentos Blandos: Como Arroz Cocido, Avena Cocida, Puré de calabaza y Yogur Natural sin azúcar."
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="➖ Vegetales suaves y cocidos: Como zanahorias cocida y calabacín cocido "
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="➖Suplementos vitamínicos y minerales: Considera la posibilidad de añadir suplementos vitamínicos y minerales a la dieta de la gallina para ayudar a cubrir cualquier deficiencia nutricional. "
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="➖ Agua fresca y limpia: Asegúrate de que la gallina tenga acceso a agua fresca y limpia en todo momento para prevenir la deshidratación."
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="➖ Monitoreo y atención veterinaria: Busca atención de un veterinario avícola puede proporcionar un diagnóstico preciso y recomendaciones específicas de tratamiento para ayudar a mejorar la salud de la gallina."
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="✅Contacto con especialista: 947 654 721 - Alvaro Monteza"
+                       FontAttributes="Bold"
+                       FontSize="15"
+                       TextColor="#000"
+                       HorizontalTextAlignment="End" />
+                <Button Text="Volver"
+                        BackgroundColor="#000"
+                        TextColor="White"
+                        CornerRadius="5"
+                        FontSize="Large"
+                        FontAttributes="Bold"
+                        x:Name="BtnVolver"
+                        Clicked="BtnVolver_Clicked" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

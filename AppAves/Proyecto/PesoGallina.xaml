@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAves.Proyecto.PesoGallina"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout>
+        <Frame VerticalOptions="FillAndExpand"
+               Margin="10,5">
+            <StackLayout>
+                <!--Título-->
+                <Label Text="Importancia del Control del Peso en la Salud y Producción de Gallinas"
+                       FontSize="30"
+                       FontAttributes="Bold"
+                       TextColor="#B22222" />
+                <!--Párrafo-->
+                <Label Text="El control del peso de tus gallinas es una práctica fundamental en la gestión eficaz de una granja avícola. Más allá de ser un simple número en una balanza, el peso de nuestras aves es un indicador vital de su salud y bienestar."
+                       FontAttributes="Bold"
+                       FontSize="15" />
+                <!--Introducción del Peso -->
+                <Frame CornerRadius="10">
+                    <StackLayout>
+                        <Image Source="https://i.ibb.co/YdKh3RM/Gallina.webp"
+                               WidthRequest="300" />
+                        <Entry Keyboard="Numeric"
+                               Placeholder="Introduce el peso de la gallina (gr)"
+                               PlaceholderColor="#000"
+                               TextColor="#000"
+                               FontSize="Medium"
+                               x:Name="TxtPeso" />
+                        <Picker x:Name="picker"
+                                Title="Seleccione la edad de la gallina"
+                                TitleColor="Red">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>4 a 6 meses</x:String>
+                                    <x:String>Más de 7 meses</x:String>
+                                </x:Array>
+                            </Picker.ItemsSource>
+                        </Picker>
+                    </StackLayout>
+                </Frame>
+                <!--Botón que nos permitirá Calcular el peso de las gallinas y saltar una ventana con todos los detalles-->
+                <Button Text="Mostrar Resultados"
+                        CornerRadius="5"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        Margin="0,10"
+                        Padding="0,10"
+                        x:Name="BtnResultado"
+                        Clicked="BtnResultado_Clicked" />
+                <Button Text="Volver"
+                        CornerRadius="5"
+                        FontAttributes="Bold"
+                        Margin="80,0"
+                        FontSize="15"
+                        x:Name="BtnVolver"
+                        Clicked="BtnVolver_Clicked" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

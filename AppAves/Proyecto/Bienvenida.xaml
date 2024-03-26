@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAves.Proyecto.Bienvenida"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout>
+        <Frame VerticalOptions="FillAndExpand"
+               BackgroundColor=" #FFD700">
+            <StackLayout Spacing="30">
+                <!-- Bienvenida-->
+                <Label Text="BIENVENIDO"
+                       FontSize="45"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"
+                       TextColor="#B22222" />
+                <!--Imagen-->
+                <Image Source="https://i.ibb.co/WcysKpG/Granja.jpg" />
+                <!--Texto de bienvenida-->
+                <Label Text="Realiza el Cuidado Óptimo de tus Gallinas"
+                       FontAttributes="Bold"
+                       FontSize="30"
+                       TextColor="#B22222"
+                       HorizontalTextAlignment="Center" />
+                <!--Botón de Navegación-->
+                <Button Text="Iniciar"
+                        BackgroundColor="#5CA941"
+                        TextColor="White"
+                        CornerRadius="5"
+                        FontSize="Large"
+                        FontAttributes="Bold" 
+                        x:Name="BtnIniciar"
+                        Clicked="BtnIniciar_Clicked"
+                        />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

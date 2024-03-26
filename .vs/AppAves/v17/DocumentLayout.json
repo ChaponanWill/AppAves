@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\corrala.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\corrala.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\corrala.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\corrala.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\pesogallina.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\pesogallina.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\corralc.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\corralc.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\corralb.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\corralb.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\corralc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\corralc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\corralb.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\corralb.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\bienvenida.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\bienvenida.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\pesogallina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\pesogallina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\proyecto\\bienvenida.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\proyecto\\bienvenida.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\appaves\\appaves\\appaves.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D36082E-7CE9-41DE-982E-4806ACE32536}|AppAves\\AppAves.csproj|solutionrelative:appaves\\appaves.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CorralB.xaml",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralB.xaml",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\CorralB.xaml",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralB.xaml",
+              "RelativeToolTip": "AppAves\\Proyecto\\CorralB.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T22:00:51.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorralC.xaml.cs",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralC.xaml.cs",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\CorralC.xaml.cs",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralC.xaml.cs",
+              "RelativeToolTip": "AppAves\\Proyecto\\CorralC.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:05:17.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CorralC.xaml",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralC.xaml",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\CorralC.xaml",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralC.xaml",
+              "RelativeToolTip": "AppAves\\Proyecto\\CorralC.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T22:01:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PesoGallina.xaml",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\PesoGallina.xaml",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\PesoGallina.xaml",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\PesoGallina.xaml",
+              "RelativeToolTip": "AppAves\\Proyecto\\PesoGallina.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T02:21:25.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\App.xaml",
+              "RelativeDocumentMoniker": "AppAves\\App.xaml",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\App.xaml",
+              "RelativeToolTip": "AppAves\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T20:45:49.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PesoGallina.xaml.cs",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\PesoGallina.xaml.cs",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\PesoGallina.xaml.cs",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\PesoGallina.xaml.cs",
+              "RelativeToolTip": "AppAves\\Proyecto\\PesoGallina.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowFMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:21:36.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bienvenida.xaml.cs",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\Bienvenida.xaml.cs",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\Bienvenida.xaml.cs",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\Bienvenida.xaml.cs",
+              "RelativeToolTip": "AppAves\\Proyecto\\Bienvenida.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:12:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorralA.xaml",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralA.xaml",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\CorralA.xaml",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralA.xaml",
+              "RelativeToolTip": "AppAves\\Proyecto\\CorralA.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T22:00:25.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bienvenida.xaml",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\Bienvenida.xaml",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\Bienvenida.xaml",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\Bienvenida.xaml",
+              "RelativeToolTip": "AppAves\\Proyecto\\Bienvenida.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T17:50:25.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorralA.xaml.cs",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralA.xaml.cs",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\CorralA.xaml.cs",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralA.xaml.cs",
+              "RelativeToolTip": "AppAves\\Proyecto\\CorralA.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:09:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CorralB.xaml.cs",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralB.xaml.cs",
+              "RelativeDocumentMoniker": "AppAves\\Proyecto\\CorralB.xaml.cs",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\Proyecto\\CorralB.xaml.cs",
+              "RelativeToolTip": "AppAves\\Proyecto\\CorralB.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:09:13.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppAves\\App.xaml.cs",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\App.xaml.cs",
+              "RelativeToolTip": "AppAves\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:26:38.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AppAves\\AssemblyInfo.cs",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\AssemblyInfo.cs",
+              "RelativeToolTip": "AppAves\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:05:10.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppAves",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\AppAves.csproj",
+              "RelativeDocumentMoniker": "AppAves\\AppAves.csproj",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\AppAves\\AppAves\\AppAves.csproj",
+              "RelativeToolTip": "AppAves\\AppAves.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T17:48:13.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAves.Proyecto.CorralA"
+             NavigationPage.HasNavigationBar="False">
+    
+    <StackLayout>
+        <Frame VerticalOptions="FillAndExpand"
+               BackgroundColor="#A2E50D">
+            <StackLayout Spacing="10">
+                <!-- Bienvenida-->
+                <Label Text="¡Excelente trabajo, La gallina se encuentra en excelente estado!"
+                        FontSize="25"
+                        FontAttributes="Bold"
+                        HorizontalOptions="Center"
+                        TextColor="#000" />
+                <!--Imagen-->
+                <Frame BackgroundColor="#A2E50D">
+                    <Image Source="https://i.ibb.co/YjptZrj/buen-estado.jpg" 
+                           WidthRequest="700"/>    
+                </Frame>
+                
+                <!--Texto de bienvenida-->
+                <Label Text="Sigue dándole buenos alimentos para su desarrollo, como:"
+                       FontAttributes="Bold"
+                       FontSize="15"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Center" />
+                <Label Text="- Variedad de granos como maíz, trigo, cebada y avena. Estos proporcionan carbohidratos y energía necesarios para su actividad diaria."
+                       FontAttributes="Bold"
+                       FontSize="13"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="- Vegetales como lechuga, espinacas, zanahorias, calabazas, brócoli y col rizada son excelentes fuentes de vitaminas y minerales para las gallinas."
+                       FontAttributes="Bold"
+                       FontSize="13"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="- Proteínas para el crecimiento y la producción de huevos. Puedes proporcionar proteínas a través de alimentos como gusanos, larvas de insectos, pescado, carne o huevos cocidos."
+                       FontAttributes="Bold"
+                       FontSize="13"
+                       TextColor="#000"
+                       HorizontalTextAlignment="Start" />
+                <Label Text="Contacto con especialista: 987 654 321 - José Altamarino"
+                       FontAttributes="Bold"
+                       FontSize="10"
+                       TextColor="#000"
+                       HorizontalTextAlignment="End" />
+                <Button Text="Volver"
+                        BackgroundColor="#000"
+                        TextColor="White"
+                        CornerRadius="5"
+                        FontSize="Large"
+                        FontAttributes="Bold"
+                        x:Name="BtnVolver"
+                        Clicked="BtnVolver_Clicked" />
+            </StackLayout>
+            
+        </Frame>
+    </StackLayout>
+    
+</ContentPage>
