@@ -1,8 +1,8 @@
 # APP DE AVES EN XAMARIN.FORMS 
 ** Situación: **
 <p> Un pequeño emprendimiento familiar cuida con esmero desde el amanecer hasta el anochecer la pequeña granja que se ha ido creciendo al transcurrir los años. 
-En los últimos meses han surgido preocupaciones sobre la salud y bienestar de las gallinas. Se observa que algunas aves se muestran más débiles o menos activas que las demás, con un peso poco convincente de que estén bien. 
-En la última reunión familiar se comenta el tema y se proponen soluciones para que la situación de las aves mejore. En esta reunión se plantea, clasificar las aves, en tres corrales distintos según su peso para darles un tratamiento correcto en sus comidas:
+En los últimos meses han surgido preocupaciones sobre la salud y bienestar de las gallinas. Se observa que algunas aves se muestran más débiles o menos activas que las demás, con un peso poco convincente de que estén bien.</p> 
+<p></p>En la última reunión familiar se comenta el tema y se proponen soluciones para que la situación de las aves mejore. En esta reunión se plantea, clasificar las aves, en tres corrales distintos según su peso para darles un tratamiento correcto en sus comidas:</p>
 -	Corral A: Gallinas en excelente estado.
 -	Corral B: Gallinas en Buen estado.
 -	Corral C: Gallinas en mal estado.
